@@ -1,0 +1,2 @@
+# Sık Kullanılan Tipler
+
