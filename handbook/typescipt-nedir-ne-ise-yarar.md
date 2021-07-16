@@ -15,7 +15,7 @@ Type 'String' has no call signatures. */
 
 Yukarıda ki kod bloğunu çalıştırdığımızda hata mesajı karşımıza çıkacaktır. TypeScript ise kodu çalıştırmadan önce bize bir hata mesajı verecektir.
 
-TypeScript aynı zamanda çalışma öncesi hata yakalamamızı da sağlar. Aşağıdaki kod bloğunu çalıştırdığımızda console a **undefined** değerini yazar.
+TypeScript aynı zamanda çalışma öncesi hataları yakalamamızı da sağlar. Örneğin aşağıdaki kod bloğunu çalıştırdığımızda console a **undefined** değerini yazar.
 
 ```javascript
 const user = {
@@ -32,7 +32,7 @@ TypeScript kullandığımız takdirde kullandığımız IDE de karşımıza aşa
 Property 'location' does not exist on type '{ name: string; age: number; }'.
 {% endhint %}
 
-Veya aşağıdaki gibi basit logic hataları ile karşılaşmamızı çalışma öncesi sağlar.
+TypeScript aşağıdaki gibi basit logic hataları geliştirme aşamasında karşılaşmamızı sağlar.
 
 ```javascript
 const value = Math.random() < 0.5 ? "a" : "b";

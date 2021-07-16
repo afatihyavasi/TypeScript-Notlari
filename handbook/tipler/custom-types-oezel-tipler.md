@@ -1,0 +1,2 @@
+# Custom Types \(Özel Tipler\)
+
