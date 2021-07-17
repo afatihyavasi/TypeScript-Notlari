@@ -6,17 +6,17 @@
 
 * [TypeScript nedir, ne işe yarar ?](handbook/typescipt-nedir-ne-ise-yarar.md)
 * [Kurulum ve tsc](handbook/kurulum-ve-tsc.md)
-* [Tipler](handbook/tipler/README.md)
-  * [Temel Tipler](handbook/tipler/temel-tipler.md)
-  * [Any ve unknown](handbook/tipler/any-ve-unknown.md)
-  * [Arrays \(Diziler\)](handbook/tipler/arrays-diziler.md)
-  * [Objects \(Objeler\)](handbook/tipler/objects-objeler.md)
-  * [Custom Types \(Özel Tipler\)](handbook/tipler/custom-types-oezel-tipler.md)
 
 ---
 
-* [Fonksiyonlar](fonksiyonlar.md)
+* [Temel Tipler](temel-tipler.md)
+* [Any ve unknown](any-ve-unknown.md)
+* [Arrays \(Diziler\)](arrays-diziler.md)
+* [Objects \(Objeler\)](objects-objeler.md)
+* [Custom Types \(Özel Tipler\)](custom-types-oezel-tipler.md)
 * [Interfaces](interfaces.md)
+* [Generics](generics.md)
+* [Fonksiyonlar](fonksiyonlar.md)
 * [Classes](classes.md)
 * [Modüller](modueller.md)
 * [Tip Manipülasyonu](tip-manipuelasyonu.md)
