@@ -1,4 +1,4 @@
-# Type Assortion
+# Type Assertion
 
 type assortıon bak
 

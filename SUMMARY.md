@@ -15,13 +15,12 @@
 * [Tuple](handbook/tuple.md)
 * [Fonksiyonlar](handbook/fonksiyonlar.md)
 * [Optional Params \(Opsiyonel Parametreler\)](handbook/optional-params-opsiyonel-parametreler.md)
-* [Classes](handbook/classes.md)
 * [type](handbook/type.md)
 * [interface](handbook/interfaces.md)
 * [readonly](handbook/readonly.md)
 * [Generics](handbook/generics.md)
 * [Modüller](handbook/modueller.md)
-* [Type Assortion](handbook/tip-manipuelasyonu.md)
+* [Type Assertion](handbook/tip-manipuelasyonu.md)
 * [React ve TypeScript](handbook/react-ve-typescript.md)
 
 ---
