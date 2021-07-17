@@ -10,5 +10,5 @@ authMethod = "google"
 
 Ayrıca TypeScript in intellisense e kattığı özellik sayesinde öneriler kısmına custom tip tanımlamalarımız geliyor.
 
-![](.gitbook/assets/ekran-resmi-2021-07-17-14.23.54.png)
+![](../.gitbook/assets/ekran-resmi-2021-07-17-14.23.54.png)
 

@@ -8,7 +8,7 @@ let users: string[];
 
 **Array** içerisindeki elemanlarımızın tiplerinin **string** olacağını tanımladık.
 
-![](.gitbook/assets/ekran-resmi-2021-07-17-14.57.12.png)
+![](../.gitbook/assets/ekran-resmi-2021-07-17-14.57.12.png)
 
 şeklinde yazdığımızda **5** değeri **number** olduğu için hata vericektir.
 

@@ -19,15 +19,15 @@ Değişken tipinin ne olduğunu bilmediğimiz durumlarda **unknown** tip tanıml
   
 Örneklerle açıklarsak,
 
-![](.gitbook/assets/ekran-resmi-2021-07-17-13.31.42.png)
+![](../.gitbook/assets/ekran-resmi-2021-07-17-13.31.42.png)
 
 **any** ile değişkenimizi tanımladığımızda, **string** metodu olan **toLowerCase\(\)** i kullandığımızda herhangi bir hata vermiyor.  Ayni ifadeyi **unknown** ile yazdığımız zaman
 
-![](.gitbook/assets/ekran-resmi-2021-07-17-13.33.25.png)
+![](../.gitbook/assets/ekran-resmi-2021-07-17-13.33.25.png)
 
 görüldüğü gibi editörümüz hata veriyor. 
 
-![](.gitbook/assets/ekran-resmi-2021-07-17-13.35.02.png)
+![](../.gitbook/assets/ekran-resmi-2021-07-17-13.35.02.png)
 
 Yukarıda ki gibi şartlı ifadelerle kullandığımız takdirde herhangi bir hata karşımıza çıkmamış olucak. Böylece dinamik bir ifadeyi programımızda kullanırken type checking işlemini sağlamış oluyoruz.
 

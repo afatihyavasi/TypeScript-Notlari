@@ -35,7 +35,7 @@ const printConsole = (keyword: string): void => {
 
 Dönüş değeri olarak **void** belirlediğimiz bir fonksiyondan dönüş yaptığımız takdirde hata alırız.
 
-![](.gitbook/assets/ekran-resmi-2021-07-17-15.24.42.png)
+![](../.gitbook/assets/ekran-resmi-2021-07-17-15.24.42.png)
 
 {% hint style="info" %}
 Dönüş değeri **void** olarak belirlediğimiz fonksiyonlarda kullanılan return fonksiyondan çıkış amaçlı kullanıldıysa hata vermez.
