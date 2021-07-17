@@ -52,6 +52,22 @@ const add = (num1: number, num2: number = 4) => {
 add(2)
 ```
 
+### **Rest Parametreler**
+
+Rest operatörü ile parametre tanımladığımızda, rest öğelerin tiplerini array tip tanımlaması yaptığımız gibi yapabiliriz.
+
+Aşağıdaki örnekte fonksiyonumuzda rest operatörü kullandığımızda nasıl tip tanımlaması yaptığımızı görebilirsiniz.
+
+```typescript
+function Greet(greeting: string, ...names: string[]) {
+    return greeting + " " + names.join(", ") + "!";
+}
+
+Greet("Hello", "Steve", "Bill"); // returns "Hello Steve, Bill!"
+
+Greet("Hello");// returns "Hello !"
+```
+
 
 
 

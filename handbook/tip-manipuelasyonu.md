@@ -1,4 +1,4 @@
-# Tip Manipülasyonu
+# Type Assortion
 
 type assortıon bak
 
