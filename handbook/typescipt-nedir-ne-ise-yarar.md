@@ -26,7 +26,7 @@ const user = {
 console.log(user.location);
 ```
 
-TypeScript kullandığımız takdirde kullandığımız IDE de karşımıza aşağıdaki hata mesajı çıkacaktır.
+TypeScript kullandığımız takdirde kullandığımız editörümüz de karşımıza aşağıdaki hata mesajı çıkacaktır.
 
 {% hint style="danger" %}
 Property 'location' does not exist on type '{ name: string; age: number; }'.
