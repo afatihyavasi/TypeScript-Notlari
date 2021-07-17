@@ -43,6 +43,5 @@ const oneHundred: bigint = BigInt(100);
 const firstName = Symbol("name");
 ```
 
-  
 
 

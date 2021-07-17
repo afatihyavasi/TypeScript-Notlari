@@ -10,15 +10,19 @@
 ---
 
 * [Temel Tipler](temel-tipler.md)
-* [Any ve unknown](any-ve-unknown.md)
+* [any ve unknown](any-ve-unknown.md)
+* [Union Type \(Çoklu Tipler\)](union-type-coklu-tipler.md)
+* [Custom Types \(Özel Tipler\)](custom-types-oezel-tipler.md)
+* [type](type.md)
+* [Interfaces](interfaces.md)
 * [Arrays \(Diziler\)](arrays-diziler.md)
 * [Objects \(Objeler\)](objects-objeler.md)
-* [Custom Types \(Özel Tipler\)](custom-types-oezel-tipler.md)
-* [Interfaces](interfaces.md)
-* [Generics](generics.md)
 * [Fonksiyonlar](fonksiyonlar.md)
+* [Optional Params \(Opsiyonel Parametreler\)](optional-params-opsiyonel-parametreler.md)
+* [Generics](generics.md)
 * [Classes](classes.md)
 * [Modüller](modueller.md)
 * [Tip Manipülasyonu](tip-manipuelasyonu.md)
 * [React ve TypeScript](react-ve-typescript.md)
+* [Kaynakça](kaynakca.md)
 

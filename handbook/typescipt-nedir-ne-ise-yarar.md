@@ -48,11 +48,3 @@ if (value !== "a") {
 
 ### 
 
-### Kaynakça
-
-* [TypeScript Documentation - The Basics](https://www.typescriptlang.org/docs/handbook/2/basic-types.html)
-
-
-
-
-
