@@ -1,4 +1,4 @@
-# Custom Types \(Özel Tipler\)
+# Literal Types
 
 Örneğin **authMethod** isimli bir değişkeniniz var ve bu değişkenin sadece e-mail, google ve github değerlerini almasını istiyorsunuz. İşte tam bu durumda **TypeScript** in **custom types** özelliği yardımımıza koşuyor.
 

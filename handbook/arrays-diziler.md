@@ -14,7 +14,7 @@ let users: string[];
 
 
 
-**Array** için tip tanımlamasının yapmanın bir başka yolu ise [generic](generics.md) olarak tip tanımlamasıdır.
+**Array** için tip tanımlamasının yapmanın bir başka yolu aşağıdaki gibidir.
 
 ```typescript
 let list: Array<number> = [1, 2, 3];
