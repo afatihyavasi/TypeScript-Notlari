@@ -12,5 +12,7 @@
 
 {% embed url="https://stackoverflow.com/questions/55377365/what-does-keyof-typeof-mean-in-typescript" %}
 
+{% embed url="https://www.domysee.com/blogposts/ts-mapped-types" %}
+
 
 

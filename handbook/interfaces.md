@@ -25,7 +25,7 @@ interface Teams {
 let champions: Teams = {turkey: "fenerbahce", spain: "barcelona"}
 ```
 
-{% hint style="info" %}
+{% hint style="success" %}
 **type** ile i**nterface** aynı amaçta olsalar bile bazı farkları vardır. 
 
 **1 -** Fonksiyon tanımlamaları farklıdır.
