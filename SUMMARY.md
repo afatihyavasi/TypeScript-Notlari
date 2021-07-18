@@ -19,7 +19,7 @@
 * [interface](handbook/interfaces.md)
 * [readonly](handbook/readonly.md)
 * [Generics](handbook/generics.md)
-* [Modüller](handbook/modueller.md)
+* [Modül Yapısı](handbook/modueller.md)
 * [Type Assertion](handbook/tip-manipuelasyonu.md)
 * [keyof](handbook/keyof.md)
 * [React ve TypeScript](handbook/react-ve-typescript.md)
