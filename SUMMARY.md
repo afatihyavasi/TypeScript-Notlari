@@ -21,7 +21,8 @@
 * [Generics](handbook/generics.md)
 * [Modül Yapısı](handbook/modueller.md)
 * [Type Assertion](handbook/tip-manipuelasyonu.md)
-* [keyof](handbook/keyof.md)
+* [keyof, typeof](handbook/keyof.md)
+* [Mapped Types](handbook/mapped-types.md)
 * [React ve TypeScript](handbook/react-ve-typescript.md)
 
 ---
