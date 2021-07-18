@@ -6,29 +6,27 @@ TypeScript'e çalışırken aldığım notları burada paylaşıyorum. Amacım T
 
 Bu site GitBook üzerinden oluşturuldu. Ayrıca [Github](https://github.com/afatihyavasi/TypeScript-Notlari) üzerinden inceleyebilirsiniz. Eksik veya hatalı gördüğünüz sayfaları düzenlemek için PR açarak destek olabilirsiniz
 
-## İçindekiler
+### İÇİNDEKİLER
 
-* [Giriş](README.md)
-
-### Handbook
-
-* [TypeScript nedir, ne işe yarar ?](handbook/typescipt-nedir-ne-ise-yarar.md)
-* [Kurulum ve tsc](handbook/kurulum-ve-tsc.md)
-* [Temel Tipler](handbook/temel-tipler.md)
-* [any ve unknown](handbook/any-ve-unknown.md)
-* [Union Type \(Çoklu Tipler\)](handbook/union-type-coklu-tipler.md)
-* [Custom Types \(Özel Tipler\)](handbook/custom-types-oezel-tipler.md)
-* [Objects \(Objeler\)](handbook/objects-objeler.md)
-* [Arrays \(Diziler\)](handbook/arrays-diziler.md)
-* [Tuple](handbook/tuple.md)
-* [Fonksiyonlar](handbook/fonksiyonlar.md)
-* [Optional Params \(Opsiyonel Parametreler\)](handbook/optional-params-opsiyonel-parametreler.md)
-* [type](handbook/type.md)
-* [interface](handbook/interfaces.md)
-* [readonly](handbook/readonly.md)
-* [Generics](handbook/generics.md)
-* [Modüller](handbook/modueller.md)
-* [Type Assortion](handbook/tip-manipuelasyonu.md)
-* [React ve TypeScript](handbook/react-ve-typescript.md)
-* [Kaynakça](kaynakca.md)
+* [TypeScript nedir, ne işe yarar ?](https://github.com/afatihyavasi/TypeScript-Notlari/blob/master/handbook/typescipt-nedir-ne-ise-yarar.md)
+* [Kurulum ve tsc](https://github.com/afatihyavasi/TypeScript-Notlari/blob/master/handbook/kurulum-ve-tsc.md)
+* [Temel Tipler](https://github.com/afatihyavasi/TypeScript-Notlari/blob/master/handbook/temel-tipler.md)
+* [any ve unknown](https://github.com/afatihyavasi/TypeScript-Notlari/blob/master/handbook/any-ve-unknown.md)
+* [Union Type \(Çoklu Tipler\)](https://github.com/afatihyavasi/TypeScript-Notlari/blob/master/handbook/union-type-coklu-tipler.md)
+* [Literal Types](https://github.com/afatihyavasi/TypeScript-Notlari/blob/master/handbook/custom-types-oezel-tipler.md)
+* [Objects \(Objeler\)](https://github.com/afatihyavasi/TypeScript-Notlari/blob/master/handbook/objects-objeler.md)
+* [Arrays \(Diziler\)](https://github.com/afatihyavasi/TypeScript-Notlari/blob/master/handbook/arrays-diziler.md)
+* [Tuple](https://github.com/afatihyavasi/TypeScript-Notlari/blob/master/handbook/tuple.md)
+* [Fonksiyonlar](https://github.com/afatihyavasi/TypeScript-Notlari/blob/master/handbook/fonksiyonlar.md)
+* [Optional Params \(Opsiyonel Parametreler\)](https://github.com/afatihyavasi/TypeScript-Notlari/blob/master/handbook/optional-params-opsiyonel-parametreler.md)
+* [type](https://github.com/afatihyavasi/TypeScript-Notlari/blob/master/handbook/type.md)
+* [interface](https://github.com/afatihyavasi/TypeScript-Notlari/blob/master/handbook/interfaces.md)
+* [readonly](https://github.com/afatihyavasi/TypeScript-Notlari/blob/master/handbook/readonly.md)
+* [Generics](https://github.com/afatihyavasi/TypeScript-Notlari/blob/master/handbook/generics.md)
+* [Modül Yapısı](https://github.com/afatihyavasi/TypeScript-Notlari/blob/master/handbook/modueller.md)
+* [Type Assertion](https://github.com/afatihyavasi/TypeScript-Notlari/blob/master/handbook/tip-manipuelasyonu.md)
+* [keyof, typeof](https://github.com/afatihyavasi/TypeScript-Notlari/blob/master/handbook/keyof.md)
+* [Mapped Types](https://github.com/afatihyavasi/TypeScript-Notlari/blob/master/handbook/mapped-types.md)
+* [React ve TypeScript](https://github.com/afatihyavasi/TypeScript-Notlari/blob/master/handbook/react-ve-typescript.md)
+* [Kaynakça](https://github.com/afatihyavasi/TypeScript-Notlari/blob/master/kaynakca.md)
 
