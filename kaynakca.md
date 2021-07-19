@@ -14,7 +14,11 @@
 
 {% embed url="https://basarat.gitbook.io/typescript/" %}
 
+{% embed url="https://react-typescript-cheatsheet.netlify.app/" %}
+
 * [YouTube @codingwithdidem - TypeScript Kursu \| Yeni Başlayanlar İçin Typescript](https://www.youtube.com/watch?v=1d92ipW7Mx8&t=3548s)
 * [YouTube @React Dersleri - React ile Temel TypeScript Kullanımı](https://www.youtube.com/watch?v=qZ3xDaWpRzo&t=826s)
 * [YouTube @Basarat - What does KEYOF mean in TypeScript \(safety for dynamic JavaScript\)](https://www.youtube.com/watch?v=45gSwNdWSjU)
+
+
 
