@@ -23,9 +23,15 @@
 * [Type Assertion](handbook/tip-manipuelasyonu.md)
 * [keyof, typeof](handbook/keyof.md)
 * [Mapped Types](handbook/mapped-types.md)
-* [React ve TypeScript](handbook/react-ve-typescript.md)
+* [React ve TypeScript](handbook/react-ve-typescript/README.md)
+  * [Props Tipleri](handbook/react-ve-typescript/props-tipleri.md)
+  * [State Tipleri](handbook/react-ve-typescript/state-tipleri.md)
+  * [Event Tipleri](handbook/react-ve-typescript/event-tipleri.md)
+  * [useRef](handbook/react-ve-typescript/useref.md)
 
 ---
 
+* [Tip and Tricks](tip-and-tricks/README.md)
+  * [json2ts](tip-and-tricks/json2ts.md)
 * [Kaynakça](kaynakca.md)
 
