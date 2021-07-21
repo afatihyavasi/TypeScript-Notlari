@@ -1,6 +1,6 @@
 # json2ts
 
-Herhangi bir API istek attık bize json bir veri döndü ve elimizde json bir veri var ve bu veri tipinin tip tanımlamasını yapmamız gerekiyor. Örneğin [https://swapi.dev/api/people/1](https://swapi.dev/api/people/1) adresine istek attık ve bize aşağıdaki cevabı döndü. 
+Herhangi bir API istek attık bize json bir veri döndü, elimizde json bir veri var ve bu veri tipinin tip tanımlamasını yapmamız gerekiyor. Örneğin [https://swapi.dev/api/people/1](https://swapi.dev/api/people/1) adresine istek attık ve bize aşağıdaki cevabı döndü. 
 
 ```javascript
 {
