@@ -4,9 +4,11 @@
 
 TypeScript'e çalışırken aldığım notları burada paylaşıyorum. Amacım TypeScript hakkında yazılı kaynak eksikliği çekenler için Türkçe içerik oluşturmak. Functional Programming metodolojisine göre hazırlanmıştır. 
 
-Bu site GitBook üzerinden oluşturuldu. Ayrıca [Github](https://github.com/afatihyavasi/TypeScript-Notlari) üzerinden inceleyebilirsiniz. Eksik veya hatalı gördüğünüz sayfaları düzenlemek için PR açarak destek olabilirsiniz
+Bu site GitBook üzerinden oluşturuldu. Ayrıca [Github](https://github.com/afatihyavasi/TypeScript-Notlari) üzerinden inceleyebilirsiniz. Eksik veya hatalı gördüğünüz sayfaları düzenlemek için PR açarak destek olabilirsiniz.
 
 ### İÇİNDEKİLER
+
+
 
 * [TypeScript nedir, ne işe yarar ?](https://github.com/afatihyavasi/TypeScript-Notlari/blob/master/handbook/typescipt-nedir-ne-ise-yarar.md)
 * [Kurulum ve tsc](https://github.com/afatihyavasi/TypeScript-Notlari/blob/master/handbook/kurulum-ve-tsc.md)
@@ -27,6 +29,12 @@ Bu site GitBook üzerinden oluşturuldu. Ayrıca [Github](https://github.com/afa
 * [Type Assertion](https://github.com/afatihyavasi/TypeScript-Notlari/blob/master/handbook/tip-manipuelasyonu.md)
 * [keyof, typeof](https://github.com/afatihyavasi/TypeScript-Notlari/blob/master/handbook/keyof.md)
 * [Mapped Types](https://github.com/afatihyavasi/TypeScript-Notlari/blob/master/handbook/mapped-types.md)
-* [React ve TypeScript](https://github.com/afatihyavasi/TypeScript-Notlari/blob/master/handbook/react-ve-typescript.md)
+* [React ve TypeScript](https://github.com/afatihyavasi/TypeScript-Notlari/blob/master/handbook/react-ve-typescript/README.md)
+  * [Props Tipleri](https://github.com/afatihyavasi/TypeScript-Notlari/blob/master/handbook/react-ve-typescript/props-tipleri.md)
+  * [State Tipleri](https://github.com/afatihyavasi/TypeScript-Notlari/blob/master/handbook/react-ve-typescript/state-tipleri.md)
+  * [Event Tipleri](https://github.com/afatihyavasi/TypeScript-Notlari/blob/master/handbook/react-ve-typescript/event-tipleri.md)
+  * [useRef](https://github.com/afatihyavasi/TypeScript-Notlari/blob/master/handbook/react-ve-typescript/useref.md)
+* [Tip and Tricks](https://github.com/afatihyavasi/TypeScript-Notlari/blob/master/tip-and-tricks/README.md)
+  * [json2ts](https://github.com/afatihyavasi/TypeScript-Notlari/blob/master/tip-and-tricks/json2ts.md)
 * [Kaynakça](https://github.com/afatihyavasi/TypeScript-Notlari/blob/master/kaynakca.md)
 
